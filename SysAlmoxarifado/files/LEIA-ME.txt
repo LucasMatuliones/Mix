@@ -1,0 +1,10 @@
+SISTEMA DE ALMOXARIFADO
+
+1) Instale o Python (python.org) - marque "Add Python to PATH" na instalação
+2) No terminal (Prompt de Comando) dentro desta pasta:
+     pip install flask
+     python app.py
+3) Abra no navegador: http://localhost:5000
+   Outros computadores/celulares da mesma rede: http://IP-DO-PC:5000
+
+Os dados ficam no arquivo almoxarifado.db (faça backup copiando esse arquivo).
